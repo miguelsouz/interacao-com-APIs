@@ -19,21 +19,6 @@
       "id": 37,
       "nome": "Mola de Suspensão",
       "tipo": "Suspensão"
-    },
-    {
-      "id": 39,
-      "nome": "Buzina",
-      "tipo": "Controle"
-    },
-    {
-      "id": 40,
-      "nome": "Alavanca de seta",
-      "tipo": "Controle"
-    },
-    {
-      "id": 41,
-      "nome": "Alertas",
-      "tipo": "Controle"
     }
   ],
   "clientes": [
